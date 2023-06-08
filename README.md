@@ -1,4 +1,4 @@
-=Library System
+#Library System
   The Library System is a program written in C language that allows users to manage a collection of books using files. The program provides the following functionality:
 1-Add new book
 2-Delete an existing book
